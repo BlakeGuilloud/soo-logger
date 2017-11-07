@@ -1,0 +1,13 @@
+{
+  "name": "soo-logger",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Blake Guilloud <blake.guilloud@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "node soo.test.js"
+  },
+  "dependencies": {
+    "chalk": "^2.3.0"
+  }
+}
