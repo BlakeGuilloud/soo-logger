@@ -1,6 +1,6 @@
 ## soo-logger
 
-### Screw [Object, Object]
+Screw [Object, Object]
 
 I hate trying to debug with the console and only seeing partial data, with the rest falling into [Object] blocks. This is an attempt to fix that.
 
